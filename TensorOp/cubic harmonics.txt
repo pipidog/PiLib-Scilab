@@ -1,0 +1,13 @@
+Tesseral Harmonics: (cubic harmonics or real spherical harmonics)
+
+C(0,+0)=const
+
+C(1,-1)=(%i/sqrt(2))[Y(1,1)+Y(1,-1)]=Py
+C(1,+0)=Y(1,0)=Pz
+C(1,+1)=(-1/sqrt(2))[Y(1,1)+Y(1,-1)]=Px
+
+C(2,-2)=(%i/sqrt(2))[Y(2,2)-Y(2,-2)]=-dxy
+C(2,-1)=(%i/sqrt(2))[Y(2,1)+Y(2,-1)]=dyz
+C(2,+0)=Y(2,0)=dz2
+C(2,+1)=(-1/sqrt(2))[Y(2,1)-Y(2,-1)]=dxz
+C(2,+2)=(1/sqrt(2))[Y(2,2)+Y(2,-2)]=dx2y2

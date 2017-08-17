@@ -1,0 +1,24 @@
+<< PiLib 的基底與定義 >>
+	1. Cubic Harmonics 的定義可見 J. Phys. C. 13 583, 這篇文章的定義跟老闆的Note相同
+	2. Relativistic Shperical跟Relativistic Cubic可見老闆的Note
+<< State Order >>
+	1. Spherical Harmonics:
+		=>  先排:-m ~ +m, 而後再排spin: -s ~ +s
+			ex: p-1d, p0d, p+1d, p-1u, p0u, p+1u
+	2. Cubic Harmonics:
+		=>  先排cubic,再排spin由小到大
+			cubic的順序
+			s:1 / x:2,y:3,z:4 / xy:5, yz:6, xz:7, x2-y2:8, 3z2-r2:9 / 
+			xyz:10, x(5x2-3r2):11, y(5y2-3r2):12, z(5z2-3r2):13, x(y2-z2):14, y(z2-x2):15, z(x2-y2):16 
+	3. Relativistic Spherical:
+		=> 先排j由小到大,再排mj由小到大
+		s:1/2; 
+		p: J=1/2, J=3/2; 
+		d: J=3/2, J=5/2; 
+		f: J=5/2, J=7/2;
+	4. Relativistic Cubic:
+		=> 先排j由小到大,再排Gamma由小到大
+		s: J=1/2 G6(2); 
+		p: J=1/2 G6(2); J=3/2 G8(4)
+		d: J=3/2 G8(4); J=5/2 G7(2), G8(4)
+		f: J=5/2 G7(2), G8(4); J=7/2 G6(2), G7(2), G8(4)

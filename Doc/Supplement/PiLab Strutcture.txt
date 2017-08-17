@@ -1,0 +1,12 @@
+1. PiLab Structure
+   level 1 => lat : initialize project 
+   level 2 => scc : TB+U self-consistent calculation, Band gap, Fermi energy 
+   level 3 => ban : Band calculation (done)
+			  dsa : density of state calculation (done)
+			  flq : floqut band structure 
+			  imp : impurity
+			  qtp : quantum transport
+			  pho : phonon mode
+			  
+			
+			

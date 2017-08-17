@@ -1,0 +1,270 @@
+<NotepadPlus>
+    <Project name="Fortran Library">
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_FUNC_CLEAN.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_FUNC_DIAG_MV.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_FUNC_FIND_INDEX.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_FUNC_NESTED_LOOP.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_FUNC_SORT.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_IO_PRINT.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_IO_READ.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MATH_COMBINE.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MATH_EIGD.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MATH_EIGQ.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MATH_EIGR.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MATH_EIGX.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MNBD_FERMION_OP.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MNBD_FOCK_CONVERT.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_MNBD_FOCK_OCCUP.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_SPAR_BLKDIAG.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_SPAR_FULL.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_SPAR_PS.f90" />
+        <File name="C:\Users\pipidog\Dropbox\FortranLibrary\PI_SPAR_SIZE.f90" />
+    </Project>
+    <Project name="Python Library">
+        <File name="C:\Users\pipidog\Dropbox\Python Library\blackjack.py" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\blah.py" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\python note.txt" />
+        <File name="C:\Users\pipidog\Dropbox\Python Library\referral.py" />
+    </Project>
+    <Project name="EXdiag Project">
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\f_H_diag_MR3.f90" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\f_H_gen.f90" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\FOCK_GRP.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\FOCK_STATE.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\FOCK_STATE_NEW.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\H_coup_c.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\H_coup_rc.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\H_SP_INDEX.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\H_SP_INDEX_NEW.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\H_SP_VAL.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\H_SP_VAL_NEW.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVAL_01.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVAL_02.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVAL_03.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVAL_04.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVAL_05.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVAL_06.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVAL_07.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVEC_01.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVEC_02.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVEC_03.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVEC_04.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVEC_05.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVEC_06.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\MR_EVEC_07.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\Selected Group.txt" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ExactDiag\f_rc\SUB_GRP_N.txt" />
+    </Project>
+    <Project name="PiLab Core">
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_ban.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_chn.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_dsa.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_flq.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_hop.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_lat.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_zti.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_scc.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_flq_ban.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_flq_chn.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_create.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_loader.sci" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab\PiLab_runner.sci" />
+    </Project>
+    <Project name="PiLab Examples">
+        <Folder name="AGNR_large">
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\AGNR_large_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\AGNR_large_dsa.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\AGNR_large_flq.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\AGNR_large_flq_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\AGNR_large_hop.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\AGNR_large_lat.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\AGNR_large_scc.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\AGNR_large\Readme.txt" />
+        </Folder>
+        <Folder name="ZGNR">
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\Readme.txt" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\ZGNR_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\ZGNR_dsa.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\ZGNR_flq.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\ZGNR_flq_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\ZGNR_hop.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\ZGNR_lat.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\ZGNR\ZGNR_scc.plb" />
+        </Folder>
+        <Folder name="FM-NiO">
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\FM-NiO_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\FM-NiO_dsa.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\FM-NiO_flq.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\FM-NiO_flq_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\FM-NiO_hop.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\FM-NiO_lat.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\FM-NiO_scc.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\NiO\Readme.txt" />
+        </Folder>
+        <Folder name="Dimer">
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\dimer_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\dimer_dsa.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\dimer_flq.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\dimer_flq_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\dimer_hop.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\dimer_lat.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\dimer_scc.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\dimer\Readme.txt" />
+        </Folder>
+        <Folder name="Graphene">
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_chn.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_dsa.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_flq.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_flq_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_flq_chn.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_hop.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_lat.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\graphene_scc.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\graphene\Readme.txt" />
+        </Folder>
+        <Folder name="Haldane Model">
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_chn.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_dsa.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_flq.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_flq_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_flq_chn.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_hop.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_lat.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Haldane_scc.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Haldane Model\Readme.txt" />
+        </Folder>
+        <Folder name="Bi_bulk">
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Bi_bulk\Bi_bulk_flq.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Bi_bulk\Bi_bulk_zti.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Bi_bulk\Bi_bulk_ban.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Bi_bulk\Bi_bulk_scc.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Bi_bulk\Bi_bulk_hop.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Bi_bulk\Bi_bulk_lat.plb" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\ Manual\PiLab Examples\Bi_bulk\Bi_bulk_dsa.plb" />
+        </Folder>
+    </Project>
+    <Project name="PiLab Projects">
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab_ext_run.sce" />
+        <File name="C:\Users\pipidog\Dropbox\PiLib-1.2.0\PiLab variable list.txt" />
+        <Folder name="Graphene_p">
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_lat.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_scc.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_hop.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_flq.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_flq_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_zti.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_flq_zti.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_flq_chn.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_chn.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Graphene_p\Graphene_p_ham.plb" />
+        </Folder>
+        <Folder name="ZGNR_P">
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_lat.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_scc.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_hop.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_flq.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_flq_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_ban_den.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\ZGNR_p\ZGNR_dsa.plb" />
+        </Folder>
+        <Folder name="TaAs_qe">
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_ham.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_hdr.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_wan.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_spl.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_imp.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_kif.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\TaAs_qe\TaAs_kif_esc.plb" />
+        </Folder>
+        <Folder name="Bi_bulk">
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_flq_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_flq.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_flq_zti.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_scc.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_hop.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_lat.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_zti.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Bi_bulk\Bi_bulk_dsa.plb" />
+        </Folder>
+        <Folder name="PbAlO">
+            <File name="C:\MyDrive\Work\PiLab_projects\Pb_AlO\Pb_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Pb_AlO\Pb_ham.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Pb_AlO\Pb_wan.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Pb_AlO\Pb_hdr.plb" />
+        </Folder>
+        <Folder name="PbHAlO">
+            <File name="C:\MyDrive\Work\PiLab_projects\PbH_AlO\PbH_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\PbH_AlO\PbH_ham.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\PbH_AlO\PbH_hdr.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\PbH_AlO\PbH_wan.plb" />
+        </Folder>
+        <Folder name="Sr2BiIO6">
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2BiIO6\Sr_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2BiIO6\Sr_ham.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2BiIO6\Sr_wan.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2BiIO6\Sr_hdr.plb" />
+        </Folder>
+        <Folder name="Ge2Sb2Te5">
+            <File name="C:\MyDrive\Work\PiLab_projects\Ge2Sb2Te5\Ge_hdr.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Ge2Sb2Te5\Ge_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Ge2Sb2Te5\Ge_ham.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Ge2Sb2Te5\Ge_wan.plb" />
+        </Folder>
+        <Folder name="Ba2BiIO6">
+            <Folder name="dist" />
+            <Folder name="wann">
+                <File name="C:\MyDrive\Work\PiLab_projects\Ba2BiI06\wann\Ba_wan.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ba2BiI06\wann\Ba_hdr.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ba2BiI06\wann\Ba_ban.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ba2BiI06\wann\Ba_ham.plb" />
+            </Folder>
+        </Folder>
+        <Folder name="ABBO6" />
+        <Folder name="SnAlO">
+            <File name="C:\MyDrive\Work\PiLab_projects\Sn_AlO_single\Sn_AlO_hdr.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sn_AlO_single\Sn_AlO_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sn_AlO_single\Sn_AlO_ham.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sn_AlO_single\Sn_AlO_wan.plb" />
+        </Folder>
+        <Folder name="Sr2ReAuO6">
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2ReAuO6\Sr2ReAuO6_hdr.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2ReAuO6\Sr2ReAuO6_ban.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2ReAuO6\Sr2ReAuO6_ham.plb" />
+            <File name="C:\MyDrive\Work\PiLab_projects\Sr2ReAuO6\Sr2ReAuO6_wan.plb" />
+        </Folder>
+        <Folder name="Ca3BiP">
+            <Folder name="dist">
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\dist\Ca3BiP_wan.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\dist\Ca3BiP_ban.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\dist\Ca3BiP_ham.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\dist\Ca3BiP_hdr.plb" />
+            </Folder>
+            <Folder name="ndist">
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\non-dist\Ca3BiP_ban.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\non-dist\Ca3BiP_ham.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\non-dist\Ca3BiP_hdr.plb" />
+                <File name="C:\MyDrive\Work\PiLab_projects\Ca3BiP\non-dist\Ca3BiP_wan.plb" />
+            </Folder>
+        </Folder>
+    </Project>
+    <Project name="PiLib-Python">
+        <Folder name="test">
+            <File name="C:\Users\pipidog\Dropbox\PiLib\tests\IO_test.py" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib\tests\piplot_test.py" />
+        </Folder>
+        <Folder name="core">
+            <File name="C:\Users\pipidog\Dropbox\PiLib\__init__.py" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib\dftppt.py" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib\IO.py" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib\piplot.py" />
+            <File name="C:\Users\pipidog\Dropbox\PiLib\Utility.py" />
+        </Folder>
+    </Project>
+</NotepadPlus>

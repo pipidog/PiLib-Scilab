@@ -1,0 +1,63 @@
+// lat file ==========================================================
+lat.Const=1;
+lat.Primitive=...
+[0 1/2 1/2;...
+ 1/2 0 1/2;...
+ 1/2 1/2 0];
+lat.Sublatt=[0 0 0; 1/4 1/4 1/4];
+
+// hop file ==========================================================
+
+// manually define hopping matrix ------------------------------------
+hop.Generator='manual'  						//'manual' or 'auto'
+hop.Order=1;									// order of nearest coupling
+hop.OrbNum=[3,3];								// total orbital of each sublattice
+hop.h0=[1,1,3;2,2,3;3,3,3;...					// ho using tri-sparse matrix format
+		4,4,3;5,5,3;6,6,3];
+hop.h1=[1,2,1.5;1,3,2.4;1,4,2.1];				// h1 using tri-sparse matrix format				
+
+// auto generate hopping matrix --------------------------------------
+hop.Generator='auto'  							// 'manual' or 'auto'
+hop.Order=2;									// order of nearest coupling
+hop.SiteOrb=[1,1,0;1,1,1;2,1,1;2,1,2];        	// [site,n(Principal),L(angular)]			
+hop.SKint=[ 1,1,2,4,3,2,1;...					// [orb1, orb2, nn_order, ts,tp,td,tf]
+			1,2,2,4,3,2,1;...
+			1,3,1,3.9,2.9,1.9,0.9;...
+			1,4,1,3.8,2.8,1.8,0.8;...
+			2,2,2,4,3,2,1;...
+			2,3,1,3.7,2.7,1.7,0.7;...
+			2,4,1,3.6,2.6,1.6,0.6;...
+			3,3,2,4,3,2,1;...
+			3,4,2,4,3,2,1;...
+			4,4,2,4,3,2,1	];                      
+hop.LS=1;   									// LS coupling constant
+hop.Fliter=10^-4;								// matrix element fliter
+hop.Basis='c'       							// 'c', 's', 'rc', 'rs'
+hop.PickSubOrb=[5,8,18,19,23,24];	   		   	// after setting, leave empty for first run, 
+										// specify selected states of new basis
+hop.SubOrbE=[-3,-3,0,0,0,0];				// after setting, leave empty for first run, 
+										// onsite energy of selected states
+
+//scc fle ============================================================
+
+scc.HubU=[3,0;4,0;5,0;6,0];  			//[state, U], set a suborbital with U=0 if no scc needed! 
+scc.Charge=[1,1,0.5,0,0.5,0]; 					// charge of each selected suborbitals, must have
+scc.Mixing=1; 							    // component new density
+scc.Iteration=30;							// maximal iterations
+scc.Converge=10^-3;							// convergence
+scc.Mesh=[15,15,15];						// mesh of the k-space for Ef, (large for metal!) 
+scc.Temperature=10^-3;						// Temperature for FD distribution	
+
+//ban file ============================================================
+
+ban.Format='coefficient';   					// 'coefficient' or 'coordinate'
+ban.Path=[0,0,0;1,0,0;0,1,0;0,0,1;0,0,0];						// points to defined your paths
+ban.Div=50;									// division of each interval
+ban.Draw='on';								// draw band structure, 'on' or 'off' 
+ban.Shift='on';                             // if 'on', shift Ef to 0 in band plot 
+
+// dsa file ==========================================================
+dsa.Mesh=[20,20,20];				    	// k-space mesh
+dsa.Interval=0.05;							// energy interval
+dsa.Draw='on'								// 'on' or 'off'
+dsa.Shift='on'								// shift Ef=0 in plot

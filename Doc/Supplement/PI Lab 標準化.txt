@@ -1,0 +1,76 @@
+0. 重建mylib函式庫
+	1). 統一名命
+	2). 對每個函式建立範例以及整合測試檔
+	3). 針對特定函數進行擴充
+	4). 建立索引說明檔
+
+1. 建立PiLab的具體步驟:
+	1). 重新整理現有函數,優化功能,重新分類,建立完善說明檔
+	2). 建立讀取程式,將變數從不同的檔案分別讀入
+	3). 先建立自洽解以及求解能帶功能
+	
+	
+2. PiLab架構:
+	1). layer L1 (initialization): lat(結構), hop(hopping)
+	2). layer L2(self-consistnet): 產生scc檔
+	3). layer L3(property solver): band, dos, floquet..., etc. 
+	4). layer L4 (extension)
+		L4 是 L3 的功能的延伸,這部分的功能必須仰賴某些L3的計算已經完成後才可進行
+	
+3. 檔名規劃:
+	project_lat.plb (lattice)
+	project_hop.plb (hopping)
+	project_scc.plb (self-consistent calculation)
+	
+	project_ban.plb (能帶) 
+	project_dos.plb (DOS) 
+	project_imp.plb (impurity)
+	project_exi.plb (exchange) 
+	project_flq.plb (Floquet)
+	project_pho.plb (Phonon)
+	project_qtp.plb (quantum transport)
+	
+	project_L4_mex.plb (magnetic excitation) <-- project_L3_exi.plb
+	
+4. 底層函式庫:
+	底層函式庫PI Lib是一個物理計算用的數值函式庫,裡面提供了各種功能做物理計算. 
+	是PI Lab的核心. 函式庫的函數依照功能會區分成為數個子函式庫,子函式庫會依照
+	功能命名.命名時,原則上不分開,但可透過大寫來分別字串.除了與物理運算有關的子
+	函式庫外,另外有下面三個特殊函式庫:
+	
+	Utility: 執行特定電腦運算功能子函式庫
+	IO: 執行檔案讀取功能的子函式庫
+	PiLab: PiLab的核心函式庫
+	
+5. PiLab 變數格式
+   1.都使用type-list格式,同一個檔內輸入或輸出的變數都用job name開頭
+   2.使用者自定義的變數,field name都用大寫開頭,不同字串間以大寫開頭區隔
+   3.輸出變數field name盡量以小寫為主,且"必須"含有底線
+     ex: lat.Primitive (user defined), lat.surr_site(output data)
+
+	
+6.函數的說明檔格式是:
+	// **** Purpose ****
+	// This is a read function of the standard output format of my library
+	// This format also consistent with my Fortran output format
+	// **** Variables ****
+	// [fid]: 1x1, integer
+	// <= your file ID
+	// [read_range]: 2x2, integer
+	// <= specify the range you want to read,ex:[3,10;7,12]
+	// [tot_column]: 1x1, integer 
+	// <= specify the total columns of your original data
+	// [read_form]: 1, char, 'r'(real) or 'i'(integer) or 'c'(complex)
+	// <= depends the formate of your data
+	// [A]: NxM, integer, real or complex
+	// => you read data
+	// **** Version ****
+	// Feb/07/2014 First Built
+	// **** Comment ****
+	// 1. illustration
+	// Helpful to pass and receive data with Fortran. It makes Scilab and 
+	// Fortran well-integrated.
+
+	
+	
+	
